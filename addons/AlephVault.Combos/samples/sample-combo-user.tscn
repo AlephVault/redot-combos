@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://bpjj8cidmc6dq"]
+
+[ext_resource type="Script" path="res://addons/AlephVault.Combos/samples/sample-combo-user.gd" id="1_ebgqs"]
+
+[node name="Node2D" type="Node2D"]
+script = ExtResource("1_ebgqs")
